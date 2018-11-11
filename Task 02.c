@@ -1,7 +1,7 @@
 //Danial Ahmad
 //BSCS-8B
 //CMS : 249912
-
+//This code is used to print pascal triangle.
 
 #include <stdio.h>
 
